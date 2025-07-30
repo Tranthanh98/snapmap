@@ -1,0 +1,101 @@
+{
+  "snap": {
+    "cameraView": "Camera View",
+    "takePhoto": "Take a photo to check-in",
+    "privacyModes": {
+      "friends": "Friends",
+      "public": "Public",
+      "private": "Private"
+    },
+    "cameraMode": "Normal",
+    "capture": "Capture",
+    "gallery": "Gallery",
+    "switchCamera": "Switch Camera",
+    "location": {
+      "gettingLocation": "Getting location...",
+      "locationError": "Unable to get location",
+      "permissionDenied": "Location permission denied",
+      "unknownLocation": "Unknown location"
+    },
+    "photoDescription": {
+      "placeholder": "Add a description for your check-in...",
+      "cancel": "Cancel",
+      "send": "Send",
+      "uploading": "Uploading..."
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "yourName": "Your Name",
+    "username": "@username",
+    "stats": {
+      "checkins": "Check-ins",
+      "friends": "Friends",
+      "places": "Places"
+    },
+    "menu": {
+      "friends": "Friends",
+      "language": "Language",
+      "settings": "Settings",
+      "signOut": "Sign Out"
+    },
+    "languages": {
+      "english": "English",
+      "vietnamese": "Vietnamese"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": {
+      "title": "Appearance",
+      "theme": "Theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    },
+    "language": {
+      "title": "Language"
+    },
+    "privacy": {
+      "title": "Privacy",
+      "defaultPrivacy": "Default Privacy",
+      "friends": "Friends Only",
+      "public": "Public",
+      "private": "Private"
+    }
+  },
+  "map": {
+    "title": "Map",
+    "checkinsNearby": "Map with check-in locations",
+    "tapMarkers": "Tap markers to view photos"
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your PlaceSnap account",
+      "email": "Email",
+      "password": "Password",
+      "signIn": "Sign In",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up",
+      "forgotPassword": "Forgot Password?"
+    },
+    "signup": {
+      "title": "Create Account",
+      "subtitle": "Join PlaceSnap and start sharing moments",
+      "fullName": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "createAccount": "Create Account",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign In"
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "subtitle": "Enter your email to receive a password reset link",
+      "email": "Email",
+      "sendResetLink": "Send Reset Link",
+      "backToSignIn": "Back to Sign In"
+    }
+  }
+}

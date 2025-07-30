@@ -1,0 +1,101 @@
+{
+  "snap": {
+    "cameraView": "Chế độ Camera",
+    "takePhoto": "Chụp ảnh để check-in",
+    "privacyModes": {
+      "friends": "Bạn bè",
+      "public": "Công khai",
+      "private": "Riêng tư"
+    },
+    "cameraMode": "Bình thường",
+    "capture": "Chụp",
+    "gallery": "Thư viện",
+    "switchCamera": "Đổi Camera",
+    "location": {
+      "gettingLocation": "Đang lấy vị trí...",
+      "locationError": "Không thể lấy vị trí",
+      "permissionDenied": "Từ chối quyền vị trí",
+      "unknownLocation": "Vị trí không xác định"
+    },
+    "photoDescription": {
+      "placeholder": "Thêm mô tả cho check-in của bạn...",
+      "cancel": "Hủy",
+      "send": "Gửi",
+      "uploading": "Đang tải lên..."
+    }
+  },
+  "profile": {
+    "title": "Hồ sơ",
+    "yourName": "Tên của bạn",
+    "username": "@taikhoan",
+    "stats": {
+      "checkins": "Check-in",
+      "friends": "Bạn bè",
+      "places": "Địa điểm"
+    },
+    "menu": {
+      "friends": "Bạn bè",
+      "language": "Ngôn ngữ",
+      "settings": "Cài đặt",
+      "signOut": "Đăng xuất"
+    },
+    "languages": {
+      "english": "Tiếng Anh",
+      "vietnamese": "Tiếng Việt"
+    }
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "appearance": {
+      "title": "Giao diện",
+      "theme": "Chủ đề",
+      "light": "Sáng",
+      "dark": "Tối",
+      "system": "Hệ thống"
+    },
+    "language": {
+      "title": "Ngôn ngữ"
+    },
+    "privacy": {
+      "title": "Quyền riêng tư",
+      "defaultPrivacy": "Quyền riêng tư mặc định",
+      "friends": "Chỉ bạn bè",
+      "public": "Công khai",
+      "private": "Riêng tư"
+    }
+  },
+  "map": {
+    "title": "Bản đồ",
+    "checkinsNearby": "Bản đồ với các vị trí check-in",
+    "tapMarkers": "Nhấn vào marker để xem ảnh"
+  },
+  "auth": {
+    "login": {
+      "title": "Chào mừng trở lại",
+      "subtitle": "Đăng nhập vào tài khoản PlaceSnap của bạn",
+      "email": "Email",
+      "password": "Mật khẩu",
+      "signIn": "Đăng nhập",
+      "noAccount": "Chưa có tài khoản?",
+      "signUp": "Đăng ký",
+      "forgotPassword": "Quên mật khẩu?"
+    },
+    "signup": {
+      "title": "Tạo tài khoản",
+      "subtitle": "Tham gia PlaceSnap và bắt đầu chia sẻ khoảnh khắc",
+      "fullName": "Họ và tên",
+      "email": "Email",
+      "password": "Mật khẩu",
+      "createAccount": "Tạo tài khoản",
+      "hasAccount": "Đã có tài khoản?",
+      "signIn": "Đăng nhập"
+    },
+    "resetPassword": {
+      "title": "Đặt lại mật khẩu",
+      "subtitle": "Nhập email để nhận liên kết đặt lại mật khẩu",
+      "email": "Email",
+      "sendResetLink": "Gửi liên kết đặt lại",
+      "backToSignIn": "Quay lại đăng nhập"
+    }
+  }
+}
